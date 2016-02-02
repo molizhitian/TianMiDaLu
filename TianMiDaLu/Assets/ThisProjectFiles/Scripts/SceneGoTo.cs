@@ -18,4 +18,5 @@ public class SceneGoTo : MonoBehaviour {
     {
         Application.LoadLevel(levelIndex);
     }
+
 }
